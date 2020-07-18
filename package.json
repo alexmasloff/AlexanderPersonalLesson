@@ -4,7 +4,7 @@
   "description": "this is my first package (lesson 3 NPM)",
   "main": "index.js",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "@babel/cli": "*",
